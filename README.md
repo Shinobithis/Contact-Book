@@ -33,7 +33,3 @@ Contacts are saved in a file called `contact.txt` in this format:
 
 ```bash
 python main.py
-
----
-
-Let me know if you want a version in French or Arabic too 💪
